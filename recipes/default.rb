@@ -1,5 +1,5 @@
 #
-# Cookbook Name:: htop
+# Cookbook Name:: chef-mc
 # Recipe:: default
 #
 # Copyright 2010, Heavy Water Software Inc.
